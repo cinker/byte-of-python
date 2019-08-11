@@ -12,7 +12,7 @@ Save this program as `io_input.py`:
 
 <pre><code class="lang-python">{% include "./programs/io_input.py" %}</code></pre>
 
-Output:
+Output:fff
 
 <pre><code>{% include "./programs/io_input.txt" %}</code></pre>
 
